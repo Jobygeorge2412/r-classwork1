@@ -1,0 +1,44 @@
+print("Hello, World!")
+nummy <- c(2,3,4)
+nummy_int <- c(1L,2L,3L)
+types <- c("int","double","character")
+logicals <- c(TRUE,F,TRUE,T, FALSE)
+types <- c("int","double","character")
+length(nummy)
+logical(True,False,2,3)
+x<- (2,3,"joby")
+x<- c(2,3,5,"joby")
+
+a=2
+b<- 29
+a+x
+
+money_in_chars <- c("20","35","33")
+money_in_chars
+as.numeric(money_in_chars)
+typeof(as.numeric(money_in_chars))
+as.logical(money_in_chars)
+as.logical(c(20,35,33)))
+
+numbers <- 1:5
+numbers <- c(numbers,8)
+numbers
+numbers <- c(numbers, "A")
+numbers
+as.numeric(numbers)
+number_num <- as.numeric(numbers)
+is.na(numbers.num)
+
+month.abb
+month.abb[3]
+month.abb[1:4]
+1:5
+month.abb[c(2,5,7,10)]
+month.abb[c(4,6,8.12)]
+month.abb[c(4,6,12)]
+days <- c("Mon","Tue","Wed")
+days
+days<- ("Mon","Tue","Wed")
+days <- ("Mon","Tue","Wed")
+days <- c("Mon","Tue","wed")
+days
